@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIImage?)(*( (Swift.Optional&lt;UIKit.UIImage&gt; *)0x7f8540d04d88))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
